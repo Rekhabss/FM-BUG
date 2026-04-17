@@ -30,5 +30,5 @@ RECEIVER
 - Antenna
 - 9V Battery
 
-## Author
+
 Rekha BS — B.Tech ECE
